@@ -1,25 +1,14 @@
-<!-- 🧠 Animated Intro + Snake Contribution + Avatar Block -->
 
-<!-- Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+D.+Harshavardhan+Sai;Full-Stack+%7C+Android+Dev+%7C+AI%2FML+Enthusiast;Welcome+to+My+Developer+Universe+%E2%AD%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I+am+Harsha;Welcome+to+My+Developer+Universe" alt="Typing SVG" />
 </p>
 
-<!-- Snake Contribution Animation -->
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
-
-<!-- Additional Typing Block -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=true&width=600&lines=🚀+Bringing+Ideas+to+Life+with+Code;🌐+Exploring+Web%2C+AI%2C+and+More;🔥+Let%E2%80%99s+Build+Something+Epic!" />
-</p>
-
----
 
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/1a4f6df6-20a0-434d-9146-7de8b13de8fc" width="200" alt="Harshavardhan's Avatar" />
+  <img src="https://github.com/user-attachments/assets/de1ec8a7-a761-40e7-b654-ed87dcbb5db0" width="200" alt="Harshavardhan's Avatar" style="border-radius: 50%;" />
+  
+
 
   <p>👋 Hey world! You just scrolled into my space 🚀</p>
 
@@ -30,7 +19,60 @@
 </div>
 
 
+<!-- Snake Contribution Animation -->
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
+
+
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px; max-width: 150px; margin: auto;">
+  <a href="mailto:harshasai3003@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/d-harshavardhan-sai">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/ap_22bce20069/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/ap_22bce20069">
+    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/ap_22bce20069">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ha_darling_ha">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+
+### 📊 GitHub Stats & Achievements
+
+<div align="center">
+
+  <!-- 🏆 GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=d-harshavardhan-sai&theme=tokyonight&no-frame=true&title=Stars,Followers,Repositories,Commit,PullRequest,Issues&margin-w=10&margin-h=10" />
+
+  <br><br>
+
+  <!-- 🔥 GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=d-harshavardhan-sai&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
+
+  <br><br>
+
+  <!-- 📈 GitHub Stats -->
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=d-harshavardhan-sai&show_icons=true&theme=tokyonight&count_private=true&hide=issues&border_radius=10" />
+
+  <!-- 🧠 Top Languages -->
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-harshavardhan-sai&layout=compact&theme=tokyonight&langs_count=8&border_radius=10" />
+
+</div>
+
+
 ---
+
 
 ## 🔧 Technical Skills
 
@@ -52,7 +94,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
 </div>
-- DaisyUI *(no icon)*
+- DaisyUI
 
 ### 🗄️ Databases
 <div align="center">
@@ -135,44 +177,11 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=d-harshavardhan-sai&show_icons=true&theme=tokyonight&count_private=true&hide=issues&border_radius=10" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-harshavardhan-sai&layout=compact&theme=tokyonight&langs_count=8&border_radius=10" />
-</div>
-
----
-
-### 👥 Online Profiles
-
-<p align="center">
-  <a href="mailto:dharshavardhansai@gmail.com"><img src="https://img.shields.io/badge/-Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/d-harshavardhan-sai"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/ap_22bce20069/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/ap_22bce20069"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/ap_22bce20069"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-</p>
-
----
-
 <h3 align="center">✨ Keep Coding. Keep Creating. Keep Conquering. ✨</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-<div align="center">
-
-<div align="center">
 
 
-<p align="center"> 
+<p align="center"><img src="https://github.com/user-attachments/assets/13d4c03f-d82b-4276-863e-f396e67f4731" width="200" alt="Harshavardhan's Avatar" style="border-radius: 50%;" /></p>
 
-<div align="center">
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/1fc3b655-9df2-433b-bfa7-05466f887377" width="200"></p>
-
-<p align="center"> 
-
-<div align="center">
 
 
