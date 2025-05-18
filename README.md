@@ -19,13 +19,6 @@
 </div>
 
 
-<!-- Snake Contribution Animation -->
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
-
-
-
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px; max-width: 150px; margin: auto;">
   <a href="mailto:harshasai3003@gmail.com">
     <img src="https://img.shields.io/badge/-Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -47,6 +40,19 @@
   </a>
 </div>
 
+<!-- Snake Contribution Animation -->
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
+
+
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=d-harshavardhan-sai&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+[![](https://visitcount.itsvg.in/api?id=d-harshavardhan-sai&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 📊 GitHub Stats & Achievements
 
@@ -70,118 +76,65 @@
 
 </div>
 
+# 💻 Tech Stack:
 
----
-
-
-## 🔧 Technical Skills
-
-### 💻 Programming Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python" />
-</div>
+### 👨‍💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 🧠 Core CS Concepts
-- DBMS
-- OOPs
-- Computer Networks
-- Data Structures and Algorithms
-- Operating Systems
+![OOP](https://img.shields.io/badge/OOP-%23007ACC.svg?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-%23FFA500.svg?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-%23007ACC.svg?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-%2300BFFF.svg?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-%234285F4.svg?style=for-the-badge)
+![Recursion](https://img.shields.io/badge/Recursion-%23FF6347.svg?style=for-the-badge)
+![Dynamic Programming](https://img.shields.io/badge/Dynamic%20Programming-%23FF69B4.svg?style=for-the-badge)
 
 ### 🌐 Web Development
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
-</div>
-- DaisyUI
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-%23FFA500.svg?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-### 🗄️ Databases
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,cassandra,redis" />
-</div>
--Neo4j
+### 🧩 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🛠️ Software Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,figma,git,github,matlab" />
-</div>
-- JVM Java SDK  
-- Online Compilers *(GDB, Programiz)*  
-- XAMPP  
-- Canvas 
-- Overleaf 
+### 🧰 Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 ### 🤖 AI Tools
-- ChatGPT  
-- Gemini AI 
-- Deepseek 
-- Perplexity 
-- GitHub Copilot  
-- BotPress (for AI Agents) 
-- n8n (AI Agents)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-%234285F4.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-%230073ff.svg?style=for-the-badge)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-blue?style=for-the-badge)
+![Perplexity](https://img.shields.io/badge/Perplexity-%230076D6.svg?style=for-the-badge)
+![Copilot](https://img.shields.io/badge/Copilot-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23EF4E4E.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![BotPress](https://img.shields.io/badge/BotPress-%23121011.svg?style=for-the-badge)
 
-### 🚀 Deployment Tools
-- Render 
-- Vercel 
-
----
-
-### 🥆 Soft Skills
-
-* Communication Skills
-* Teamwork & Collaboration
-* Problem Solving
-* Time Management
-* Adaptability
-* Leadership Skills
-
----
-
-### 🏆 Certifications
-
-* 🧑‍💻 Web Development – IIT Bombay x Acmegrade
-* ✍️ ChatGPT for Business Communication – Great Learning
-* ⚙️ Getting Started with ChatGPT-4 – Great Learning
-* 🌐 ChatGPT for Beginners – Great Learning
-
----
-
-### 📚 Projects
-
-#### MERN Stack
-
-1. [Chat App](https://github.com/d-harshavardhan-sai/chat_app)
-2. [Todo List App](https://github.com/d-harshavardhan-sai/todolistapp_frontend)
-3. [Yummora](https://github.com/d-harshavardhan-sai/yummora-frontend)
-
-#### Python Django
-
-4. [CRM Django](https://github.com/d-harshavardhan-sai/CRMDJANGO)
-
-#### Full Stack (HTML, CSS, JS, PHP, MySQL)
-
-5. **E-commerce Website** (Jul-Aug 2024)
-
-* Vendor/Customer dashboard with authentication, session tracking
-* Cart, product CRUD, order management
-* XAMPP, PHP, MySQL backend with dynamic pages
-
-#### Engineering Clinics
-
-6. **Water Quality Monitoring System** \[Nov-Dec 2023, Prof. Asish Gupta, VIT-AP]
-
-* Raspberry Pi Pico + sensors (pH, turbidity, temp)
-* Data processing in Python via Thonny IDE
-* Remote monitoring using ThingSpeak IoT platform
-
----
-
-<h3 align="center">✨ Keep Coding. Keep Creating. Keep Conquering. ✨</h3>
+### 🚀 Deployment Platforms
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%232B2E4A.svg?style=for-the-badge&logo=render&logoColor=white)
 
 
 <p align="center"><img src="https://github.com/user-attachments/assets/13d4c03f-d82b-4276-863e-f396e67f4731" width="200" alt="Harshavardhan's Avatar" style="border-radius: 50%;" /></p>
 
 
-
-
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
