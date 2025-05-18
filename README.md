@@ -48,33 +48,41 @@
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=d-harshavardhan-sai&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=d-harshavardhan-sai&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
+</div>
 
-
-[![](https://visitcount.itsvg.in/api?id=d-harshavardhan-sai&icon=0&color=0)](https://visitcount.itsvg.in)
-
-### 📊 GitHub Stats & Achievements
+<br><br>
 
 <div align="center">
 
-  <!-- 🏆 GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=d-harshavardhan-sai&theme=tokyonight&no-frame=true&title=Stars,Followers,Repositories,Commit,PullRequest,Issues&margin-w=10&margin-h=10" />
-
-  <br><br>
-
-  <!-- 🔥 GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=d-harshavardhan-sai&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
-
-  <br><br>
-
-  <!-- 📈 GitHub Stats -->
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=d-harshavardhan-sai&show_icons=true&theme=tokyonight&count_private=true&hide=issues&border_radius=10" />
-
-  <!-- 🧠 Top Languages -->
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-harshavardhan-sai&layout=compact&theme=tokyonight&langs_count=8&border_radius=10" />
+| Chat App | Yummora | Todo List App | CRM Project |
+| -------- | ------- | ------------- | ----------- |
+| [![Chat App](https://api.qrserver.com/v1/create-qr-code/?data=https://chat-app-3l00.onrender.com/&size=150x150)](https://chat-app-3l00.onrender.com/) | [![Yummora](https://api.qrserver.com/v1/create-qr-code/?data=https://yummora-frontend-1bnz.vercel.app/&size=150x150)](https://yummora-frontend-1bnz.vercel.app/) | [![Todo List App](https://api.qrserver.com/v1/create-qr-code/?data=https://todolistapp-frontend.vercel.app/&size=150x150)](https://todolistapp-frontend.vercel.app/) | [![CRM Project](https://api.qrserver.com/v1/create-qr-code/?data=https://crmdjango-r7iy.onrender.com/&size=150x150)](https://crmdjango-r7iy.onrender.com/) |
 
 </div>
+
+<br><br>
+
+
+
+
+  <img src="https://github-profile-trophy.vercel.app/?username=d-harshavardhan-sai&theme=tokyonight&no-frame=true&title=Stars,Followers,Repositories,Commit,PullRequest,Issues&margin-w=10&margin-h=10" />
+
+
+
+ 
+  <img src="https://streak-stats.demolab.com?user=d-harshavardhan-sai&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
+
+
+
+ 
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=d-harshavardhan-sai&show_icons=true&theme=tokyonight&count_private=true&hide=issues&border_radius=10" />
+
+  
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-harshavardhan-sai&layout=compact&theme=tokyonight&langs_count=8&border_radius=10" />
+
+
 
 # 💻 Tech Stack:
 
