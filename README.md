@@ -67,20 +67,24 @@
 
 
 
-  <img src="https://github-profile-trophy.vercel.app/?username=d-harshavardhan-sai&theme=tokyonight&no-frame=true&title=Stars,Followers,Repositories,Commit,PullRequest,Issues&margin-w=10&margin-h=10" />
 
 
 
- 
-  <img src="https://streak-stats.demolab.com?user=d-harshavardhan-sai&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
-
-
+<!-- 🏆 GitHub Profile Trophy -->
+![Trophy](https://github-profile-trophy.vercel.app/?username=d-harshavardhan-sai&theme=tokyonight&no-frame=true&title=Stars,Followers,Repositories,Commit,PullRequest,Issues&margin-w=10&margin-h=10)
 
  
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=d-harshavardhan-sai&show_icons=true&theme=tokyonight&count_private=true&hide=issues&border_radius=10" />
-
   
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-harshavardhan-sai&layout=compact&theme=tokyonight&langs_count=8&border_radius=10" />
+<!-- 🚀 GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-harshavardhan-sai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
+<!-- 🔥 GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=d-harshavardhan-sai&theme=tokyonight&hide_border=false)
+
+<!-- 📊 Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d-harshavardhan-sai&theme=tokyonight&hide_border=false&layout=compact&show_icons=true)
+
+
 
 
 
