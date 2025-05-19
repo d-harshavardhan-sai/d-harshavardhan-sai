@@ -56,11 +56,14 @@
 
 <div align="center">
 
+**Click on the QR codes below to open each app in a new tab!**
+
 | Chat App | Yummora | Todo List App | CRM Project |
 | -------- | ------- | ------------- | ----------- |
 | [![Chat App](https://api.qrserver.com/v1/create-qr-code/?data=https://chat-app-3l00.onrender.com/&size=150x150)](https://chat-app-3l00.onrender.com/) | [![Yummora](https://api.qrserver.com/v1/create-qr-code/?data=https://yummora-frontend-1bnz.vercel.app/&size=150x150)](https://yummora-frontend-1bnz.vercel.app/) | [![Todo List App](https://api.qrserver.com/v1/create-qr-code/?data=https://todolistapp-frontend.vercel.app/&size=150x150)](https://todolistapp-frontend.vercel.app/) | [![CRM Project](https://api.qrserver.com/v1/create-qr-code/?data=https://crmdjango-r7iy.onrender.com/&size=150x150)](https://crmdjango-r7iy.onrender.com/) |
 
 </div>
+
 
 <br><br>
 
