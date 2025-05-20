@@ -12,7 +12,7 @@
 
   <p>👋 Hey world! You just scrolled into my space 🚀</p>
 
-  <h3>🎓 3rd Year B.Tech @ VIT-AP University</h3>
+  <h3>🎓 B.Tech @ VIT-AP University</h3>
   <h3>💻 Full-Stack Developer | 🤖 AI/ML Enthusiast</h3>
   <h3>⚡ Actively Learning & Building Cool Stuff</h3>
 
