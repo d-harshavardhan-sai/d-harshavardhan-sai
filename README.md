@@ -79,7 +79,8 @@
  
   
 <!-- 🚀 GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-harshavardhan-sai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![Harshavardhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-harshavardhan-sai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800)
+
 
 <!-- 🔥 GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=d-harshavardhan-sai&theme=tokyonight&hide_border=false)
