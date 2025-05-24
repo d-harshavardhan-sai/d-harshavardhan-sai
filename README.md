@@ -20,6 +20,9 @@
 
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px; max-width: 150px; margin: auto;">
+  <a href="https://portfolio-harsha-three.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="mailto:harshasai3003@gmail.com">
     <img src="https://img.shields.io/badge/-Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -39,6 +42,7 @@
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
+
 
 <!-- Snake Contribution Animation -->
 <p align="center">
