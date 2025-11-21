@@ -72,11 +72,6 @@
 <br><br>
 
 
-
-<!-- 🏆 GitHub Profile Trophy -->
-[![Trophy](https://github-profile-trophy.vercel.app/?username=d-harshavardhan-sai&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 <!-- 🚀 GitHub Stats -->
 ![Harshavardhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-harshavardhan-sai&theme=tokyonight&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github)
 
