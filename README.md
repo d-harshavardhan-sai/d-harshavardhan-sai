@@ -70,20 +70,16 @@
 
 
 <br><br>
+![GitHub Stats](https://github-readme-stats-steel-phi.vercel.app/api?username=d-harshavardhan-sai&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
 
-<!-- 🚀 GitHub Stats -->
-![Harshavardhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-harshavardhan-sai&theme=tokyonight&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github)
+![GitHub Streak](https://streak-stats.demolab.com?user=d-harshavardhan-sai&theme=tokyonight&hide_border=false)
 
-<!-- 🔥 GitHub Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=d-harshavardhan-sai&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
-
+<!-- 🏆 GitHub Trophy -->
+![trophy](https://github-profile-trophy.vercel.app/?username=d-harshavardhan-sai&theme=tokyonight&no-frame=true)
 
 <!-- 📊 Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d-harshavardhan-sai&theme=tokyonight&hide_border=false&layout=compact&show_icons=true)
-
-
-
 
 
 
