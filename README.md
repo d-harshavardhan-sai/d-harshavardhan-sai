@@ -70,7 +70,8 @@
 
 
 <br><br>
-![GitHub Stats](https://github-readme-stats-steel-phi.vercel.app/api?username=d-harshavardhan-sai&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![Harshavardhan's GitHub Stats](https://github-readme-stats-steel-phi.vercel.app/api?username=d-harshavardhan-sai&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=d-harshavardhan-sai&theme=tokyonight&hide_border=false)
