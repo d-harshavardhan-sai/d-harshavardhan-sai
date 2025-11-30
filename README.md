@@ -70,14 +70,17 @@
 
 
 <br><br>
-![Harshavardhan's GitHub Stats](https://github-readme-stats-steel-phi.vercel.app/api?username=d-harshavardhan-sai&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=d-harshavardhan-sai&theme=tokyonight&hide_border=false)
 
-<!-- 🏆 GitHub Trophy -->
-![trophy](https://github-profile-trophy.vercel.app/?username=d-harshavardhan-sai&theme=tokyonight&no-frame=true)
+###  GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=d-harshavardhan-sai&theme=tokyonight&no-frame=true)
+
+###  Open Source Contributions
+![OSS Trophies](https://github-profile-trophy.vercel.app/?username=d-harshavardhan-sai&theme=tokyonight&no-frame=true&title=PullRequest,Issues,Repository,Commits,Fork)
+
 
 <!-- 📊 Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d-harshavardhan-sai&theme=tokyonight&hide_border=false&layout=compact&show_icons=true)
